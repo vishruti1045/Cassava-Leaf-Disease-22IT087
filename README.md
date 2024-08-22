@@ -1,6 +1,6 @@
-# Cassava-Leaf-Disease-22IT087
+# Cassava-Leaf-Disease-Detection-22IT087
 
-**Cassava Leaf Disease detection**
+**Cassava Leaf Disease Detection**
 
 **Introduction:**
 
